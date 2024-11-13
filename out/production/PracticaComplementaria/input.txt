@@ -1,0 +1,60 @@
+# Este es un ejemplo de lenguaje MarkDawn
+## Contenidos requeridos para el aprobado
+### Marcar texto en negrita
+Podemos hacerlo encerrando el texto entre dobles asteriscos o dobles barras bajas
+
+#### Con dobles asteriscos
+**Esto es negrita con asteriscos**
+
+#### Con dobles barras bajas
+__Esto es negrita con barras bajas__
+
+### Definir una cita
+Utilizamos el mayor que
+> Esto es una cita
+
+### Escribir lineas horizontales
+Podemos hacerlo con tres guiones o barras bajas o asteriscos
+#### Con guiones bajos
+---
+#### Con barras bajas
+___
+#### Con asteriscos
+***
+
+### Definir bloques de codigo
+Lo haremos encerrando el codigo entre triples virgulillas
+
+~~~
+System.out.println("Hola");
+System.out.println("Esto es una prueba de codigo");
+~~~
+
+## Por ultimo esto es una prueba de los diferentes tipos de encabezados
+
+# Encabezado de primer nivel
+## Encabezado de segundo nivel
+### Encabezado de tercer nivel
+#### Encabezado de cuarto nivel
+##### Encabezado de quinto nivel
+###### Encabezado de sexto nivel
+
+## Contenidos requeridos para el notable y sobresaliente
+
+### Definir URLs
+#### Esto es un ejemplo de URL incorrecta
+[Esto deberia ser un enlace](thphp://NO-es-una-URL_VALIDA)
+#### Esto es un ejemplo de URL correcta
+[Esto deberia ser un enlace](http://www.urjc.es)
+
+### Definir lista de elementos
+
+Estas pueden contener uno o mas items
+
+#### Lista con un solo item
+- lista un solo elemento
+#### Lista con tres items
+- primer item
+- segundo item
+- tercer item
+**FIN**
